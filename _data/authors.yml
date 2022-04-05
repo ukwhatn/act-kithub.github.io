@@ -1,6 +1,6 @@
 KITHUB:
   name: "KITHUB"
-  avatar: "/assets/images/logo-150.png"
+  avatar: "/assets/images/logo.png"
   bio: "KITHUBは、IT技術に関わる学内外の個人や団体の中継点となるべく設立されたACTプロジェクトです。"
   links:
     - label: "Twitter"

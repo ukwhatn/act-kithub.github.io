@@ -11,10 +11,12 @@ permalink: /
 3. **[主な活動](#activities)**
 4. **[KITHUBの協力団体](#groups)**
 5. **[活動場所](#places)**
-6. **[運営メンバー](#members)**
+6. **[運営メンバー](#boardmembers)**
 7. **[FAQ](#faq)**
 8. **[参加について](#join)**
 9. **[お問い合わせ](#contact)**
+
+<hr>
 
 <a id="about"></a>
 

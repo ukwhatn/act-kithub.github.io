@@ -1,0 +1,24 @@
+KITHUB:
+  name: "HUIT"
+  avatar: "/assets/images/logo.png"
+  bio: "KITHUB公式の作成したページです。"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/KITHUBp"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/act-kithub"
+
+ukwhatn:
+  name: "Yuki Watanabe"
+  avatar: "/assets/images/icons/ukwhatn.png"
+  bio: "情報学科2年 Webアプリ大好きおじさん"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/endlessrefactor"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ukwhatn"
+

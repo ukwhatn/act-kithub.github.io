@@ -15,7 +15,7 @@ title_separator: "|"
 minimal_mistakes_skin: "air" # 全体の色合い
 
 breadcrumbs: true
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo-150.png"
 include:
   - _pages
 twitter:

@@ -1,7 +1,7 @@
 KITHUB:
-  name: "HUIT"
+  name: "KITHUB"
   avatar: "/assets/images/logo.png"
-  bio: "KITHUB公式の作成したページです。"
+  bio: "KITHUBは、IT技術に関わる学内外の個人や団体の中継点となるべく設立されたACTプロジェクトです。"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

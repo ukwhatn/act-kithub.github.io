@@ -1,6 +1,7 @@
 ---
-title: "KINDAI Info-Tech HUB"
-# classes: wide
+title: "TOP"
+author: KITHUB
+classes: wide
 permalink: /
 ---
 

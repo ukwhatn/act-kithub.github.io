@@ -1,6 +1,7 @@
 ---
 title: "KINDAI Info-Tech HUB"
-author: KITHUB permalink: /
+author: KITHUB
+permalink: /
 ---
 
 # 目次

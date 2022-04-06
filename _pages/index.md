@@ -1,7 +1,6 @@
 ---
 title: "KINDAI Info-Tech HUB"
-author: KITHUB
-permalink: /
+author: KITHUB permalink: /
 ---
 
 # 目次
@@ -178,6 +177,6 @@ A: 下記のお問い合わせ先までお気軽にお問い合わせくださ�
     * 回答はメールにて行います。
 
 
-* **[メール](mailto:kithub@info.kindai.ac.jp)**
+* **[メール (kithub@info.kindai.ac.jp)](mailto:kithub@info.kindai.ac.jp)**
     * どなたでもご利用いただけます。
     * 回答は返信にて行います。

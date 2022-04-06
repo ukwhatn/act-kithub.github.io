@@ -113,6 +113,7 @@ KITHUBがもつ"HUB"として、以下の団体が協力しています。
 
 ## 教員
 
+* **[井口 信和](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/09_iguchi_nobukazu.html)** 教授 (近畿大学情報学部)
 * **[越智 洋司](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/07_ochi_youji.html)** 准教授 (近畿大学情報学部)
 * **[波部 斉](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/09_habe_hitoshi.html)** 准教授 (近畿大学情報学部)
 

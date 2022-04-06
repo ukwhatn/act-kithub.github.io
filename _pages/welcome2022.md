@@ -71,6 +71,6 @@ permalink: /welcome2022
 
 # 参加について
 
-**[入会](/join)後にご参加いただけるSlackチャンネルやDiscordサーバーで告知いたします！**
+**[入会](/#join)後にご参加いただけるSlackチャンネルやDiscordサーバーで告知いたします！**
 
 **[Twitter](https://twitter.com/KITHUBp)** 等でも積極的に情報を発信していきますので、お見逃しなく！

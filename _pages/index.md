@@ -1,7 +1,6 @@
 ---
 title: "KINDAI Info-Tech HUB"
-author: KITHUB
-permalink: /
+author: KITHUB permalink: /
 ---
 
 # 目次
@@ -113,7 +112,8 @@ KITHUBがもつ"HUB"として、以下の団体が協力しています。
 
 ## 教員
 
-* **[井口 信和](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/09_iguchi_nobukazu.html)** 教授 (近畿大学情報学部)
+* **[井口 信和](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/09_iguchi_nobukazu.html)** 教授 (
+  近畿大学情報学部)
 * **[越智 洋司](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/07_ochi_youji.html)** 准教授 (近畿大学情報学部)
 * **[波部 斉](https://www.kindai.ac.jp/science-engineering/education/teachers/detail/09_habe_hitoshi.html)** 准教授 (近畿大学情報学部)
 
@@ -162,11 +162,11 @@ A: 下記のお問い合わせ先までお気軽にお問い合わせくださ�
 
 ### <a href="https://forms.gle/WXBjyNX2E1w5hER2A" target="_blank">参加フォーム</a>
 
->  **KITHUBへの参加は、近畿大学/大学院の在学生に限ります。**<br><br>
-> 他大学の学生の方や、その他学外の方にはご参加いただけません。<br>
-> ご希望に添えない方には大変申し訳ありませんが、ご理解をお願い致します。
-
-<br>
+<div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
+<span style="font-weight:bold">KITHUBへの参加は、近畿大学/大学院の在学生に限ります。</span><br>
+他大学の学生の方や、その他学外の方にはご参加いただけません。<br>
+ご希望に添えない方には大変申し訳ありませんが、ご理解をお願い致します。
+</div>
 
 <a id="contact"></a>
 

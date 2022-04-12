@@ -7,11 +7,7 @@ permalink: /lectures
 # 過去の勉強会資料
 
 <ul>
-    {% for page in site.pages reversed %}
-        {% if page.dir == "/lectures/" %}
-            <li><a href="{{page.url}}">{{page.title}}</a></li>
-        {% endif %}
-    {% endfor %}
+    <li><a href="/lectures/220422_githubpages">[22/04/22] GitHub PagesではじめるHP作成講座</a></li>
 </ul>
 
 <br>

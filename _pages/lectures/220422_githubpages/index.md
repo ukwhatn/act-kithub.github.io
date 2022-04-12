@@ -1,7 +1,7 @@
 ---
 title: "KINDAI Info-Tech HUB"
 author: KITHUB
-permalink: /
+permalink: /lectures/220422_githubpages
 ---
 
 # 目次

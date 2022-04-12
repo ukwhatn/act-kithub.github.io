@@ -1,7 +1,7 @@
 ---
 title: "勉強会"
 author: KITHUB
-permalink: /lectures
+permalink: /sessions
 ---
 
 # 過去の勉強会資料

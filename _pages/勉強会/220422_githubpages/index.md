@@ -1,7 +1,7 @@
 ---
 title: "GitHub PagesではじめるHP作成講座(2022/04/22)"
 author: ukwhatn
-permalink: /lectures/220422_githubpages
+permalink: /sessions/220422_githubpages
 ---
 
 # 目次

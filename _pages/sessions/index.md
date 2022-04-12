@@ -2,6 +2,7 @@
 title: "勉強会"
 author: KITHUB
 permalink: /sessions
+breadcrumb_text: "勉強会"
 ---
 
 # 過去の勉強会資料

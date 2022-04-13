@@ -1,7 +1,6 @@
 ---
 title: "KINDAI Info-Tech HUB"
-author: KITHUB
-permalink: /
+author: KITHUB permalink: /
 ---
 
 # 目次
@@ -26,7 +25,7 @@ permalink: /
 
 学内外でIT技術に携わる、または興味のある個人や団体の中継地点「HUB」となるべく設立されました。
 
-**Twitter : [@KITHUBp](https://twitter.com/KITHUBp)**
+<span style="font-weight:bold">Twitter : <a href="https://twitter.com/KITHUBp" target="_blank">@KITHUBp</a></span>
 
 <br>
 
@@ -81,7 +80,7 @@ KITHUBは、主に以下の3つの"HUB"に基づいて活動を行っていき�
 
 KITHUBがもつ"HUB"として、以下の団体が協力しています。
 
-### 近畿大学電子計算機研究会
+<h3><a href="https://kindai-csg.dev" style="color:black;" target="_blank">近畿大学電子計算機研究会</a></h3>
 
 <img src="https://kindai-csg.dev/file--deliver/1" width="300" alt="電算研ロゴ">
 
@@ -98,7 +97,7 @@ KITHUBがもつ"HUB"として、以下の団体が協力しています。
 
 ### ACT126
 
-* KITHUBは、[近畿大学アカデミックシアター](https://act.kindai.ac.jp/)のプロジェクトとして常設の部屋を用意しています
+* KITHUBは、<a href="https://act.kindai.ac.jp/" target="_blank">近畿大学アカデミックシアター</a>のプロジェクトとして常設の部屋を用意しています
 * 多くの活動はこの部屋を中心に展開されます。
 
 ### オンライン
@@ -149,6 +148,15 @@ A: 全く問題ありません！これまでに学んだ知識を生かした�
 **Q: 分からないことがあります.....**
 
 A: 下記のお問い合わせ先までお気軽にお問い合わせください！
+
+
+----
+
+**Q: 入会後でも退会できますか？**
+
+A: <a href="https://docs.google.com/forms/d/e/1FAIpQLSex7fYH8xzmhAFt_1vPTyDJZ3eUJ7_8ZWamM4WskaWHygIW2Q/viewform?usp=sf_link" target="_blank">
+退会フォーム</a>をご提出いただければ、いつでも退会できます。<br>
+退会後の再入会も自由ですので、お気軽にご参加ください！
 
 
 <br>

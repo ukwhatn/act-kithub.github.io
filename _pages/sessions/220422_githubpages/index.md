@@ -20,6 +20,6 @@ Lorem ipsum
 -->
 
 <div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
-資料を準備中です。<br>
+導入資料を準備中です。<br>
 公開までもうしばらくお待ち下さい。
 </div>

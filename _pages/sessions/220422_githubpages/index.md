@@ -13,8 +13,8 @@ permalink: /sessions/220422_githubpages
 事前準備として、GitHubのアカウントを作成してください。手順は以下のとおりです。
 
 <div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
-<span style="font-weight:bold">1. <a href="https://github.com/join" target="_blank">GitHubのサインアップページ</a>にアクセスしてください。</span>
-
+<span style="font-weight:bold">1. <a href="https://github.com/join" target="_blank">GitHubのサインアップページ</a>にアクセスしてください。</span><br>
+<br>
 <span style="font-weight:bold">2. UserNameとEmail Address、Passwordを入力してアカウントを作成してください。</span>
 <ul>
 <li>UserNameは外部に公開され、かつあなたのプロフィールページへのURLに含まれるものになりますので、注意して設定してください。</li>
@@ -29,8 +29,8 @@ permalink: /sessions/220422_githubpages
 <div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
 以上で事前準備は終わりです。<br>
 当日、お気をつけてお越しください。<br>
-
-[会場までの行き方は、こちらをご覧ください](/guide/route/3-401)
-
+<br>
+<a href="/guide/route/3-401">会場までの行き方は、こちらをご覧ください</a><br>
+<br>
 なお、参加フォームで時間を「どちらでも良い」と回答された方は、メールにて時間をご連絡いたしますので、それをご確認いただきますようお願い致します。
 </div>

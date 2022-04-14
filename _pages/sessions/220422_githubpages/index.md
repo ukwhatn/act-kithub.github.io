@@ -26,11 +26,11 @@ permalink: /sessions/220422_githubpages
 
 当日は、このアカウントでログインした状態のWebブラウザで作業を行いますので、アカウントを忘れないようにご注意ください。
 
-<div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
+
 以上で事前準備は終わりです。<br>
 当日、お気をつけてお越しください。<br>
 <br>
 <a href="/guide/route/3-401">会場までの行き方は、こちらをご覧ください</a><br>
 <br>
 なお、参加フォームで時間を「どちらでも良い」と回答された方は、メールにて時間をご連絡いたしますので、それをご確認いただきますようお願い致します。
-</div>
+

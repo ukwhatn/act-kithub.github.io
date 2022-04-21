@@ -4,6 +4,16 @@ author: ukwhatn
 permalink: /sessions/220422_githubpages
 ---
 
+## イベント概要
+
+<ul style="line-height: 2">
+    <li><span style="font-weight:bold">日時:</span> 4月22日(金)</li>
+    <li><span style="font-weight:bold">時間:</span> 5限(16:45 ~ 18:15), 6限(18:25 ~ 19:55)</li>
+    <li><span style="font-weight:bold">場所:</span> アカデミックシアター4F 3号館401教室(<a href="/guide/route/3-401" style="font-weight:bold" target="_blank">行き方はこちら</a>)</li>
+</ul>
+
+<span style="font-weight:bold">当日は、かならずノートPCをお持ちください。</span>
+
 ## 導入資料
 
 ### Githubへのアカウント作成

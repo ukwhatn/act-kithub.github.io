@@ -44,3 +44,20 @@ permalink: /sessions/220422_githubpages
 <br>
 なお、参加フォームで時間を「どちらでも良い」と回答された方は、メールにて時間をご連絡いたしますので、それをご確認いただきますようお願い致します。
 
+
+----
+
+## 当日資料
+
+### リンク
+<div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
+<strong>スライド:</strong> <a href="https://drive.google.com/file/d/116W0R1KelGz8gVS0e8zT4qXVHP2jPkSH/view?usp=sharing" target="_blank">リンク</a><br>
+<strong>テンプレートリポジトリ:</strong> <a href="https://github.com/act-kithub/220422_GitHubPages" target="_blank">リンク</a><br>
+</div>
+
+### 参考資料
+<div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
+<strong><a href="https://drive.google.com/file/d/116W0R1KelGz8gVS0e8zT4qXVHP2jPkSH/view?usp=sharing" target="_blank">Markdown記法まとめ</a></strong><br>
+</div>
+
+

@@ -57,7 +57,7 @@ permalink: /sessions/220422_githubpages
 
 ### 参考資料
 <div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
-<strong><a href="https://drive.google.com/file/d/116W0R1KelGz8gVS0e8zT4qXVHP2jPkSH/view?usp=sharing" target="_blank">Markdown記法まとめ</a></strong><br>
+<strong><a href="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa" target="_blank">Markdown記法まとめ</a></strong><br>
 </div>
 
 

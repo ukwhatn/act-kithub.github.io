@@ -22,3 +22,15 @@ ukwhatn:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ukwhatn"
 
+sane21:
+  name: "Keita Sanefuji"
+  avatar: "/assets/images/icons/default.png"
+  bio: "情報学科3年 / KITHUB学生キャプテン"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+

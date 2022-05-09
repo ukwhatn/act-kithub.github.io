@@ -19,6 +19,14 @@ permalink: /sessions/220509_unity
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeH6gI1-wwZEbDwhyUxJuk4_t-xUgBczceIPKVG879Xn-GCZQ/viewform" target="_blank">
 参加登録フォーム</a>から申し込みをお願い致します。
 
+
+## Zoom参加
+<div style="margin: 1rem;padding-left:1rem;line-height: 2;border-left: solid 5px #004F7F;">
+    <a href="https://zoom.us/j/95408696236?pwd=OC80QTkyUThFbkkyZ0xwa0IrQTJPZz09" style="font-weight:bold;" target="_blank">Zoom参加リンク</a></br>
+    <strong>ミーティングID: 954 0869 6236</strong></br>
+    <strong>パスコード: kithub</strong>
+</div>
+
 ## 事前準備
 
 ### Unityのインストール

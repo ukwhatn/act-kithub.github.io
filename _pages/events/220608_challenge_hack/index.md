@@ -65,7 +65,7 @@ permalink: /events/220608_challenge_hack
 
 Google formに回答すること
 
-https://forms.gle/y6ECpYEzHFcgAET38
+<a style="font-weight:bold;font-size:1.05rem" href="https://forms.gle/y6ECpYEzHFcgAET38" target="_blank">参加申込はこちら(Google Form)</a>
 
 
 ### 参加条件

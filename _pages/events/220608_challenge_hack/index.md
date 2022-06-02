@@ -1,5 +1,5 @@
 ---
-title: "Challenge Hack(2022/06/08~06_15)"
+title: "Challenge Hack(2022/06/08 ~ 06/15)"
 author: sane21
 permalink: /events/220608_challenge_hack
 ---

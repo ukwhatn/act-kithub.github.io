@@ -1,8 +1,8 @@
 ---
 title: "Challenge Hack(2022/06/08~06_15)"
-author: sane21
-permalink: /events/220608_challenge_hack
+author: sane21 permalink: /events/220608_challenge_hack
 ---
+
 # チャレンジハック
 
 **6/8から6/15の1週間、培った技術・知識を一つのカタチにしませんか？**
@@ -15,11 +15,9 @@ permalink: /events/220608_challenge_hack
 
 今回はそんな悩める皆さんに向けて、1週間で成果物を生み出すハッカソンを開催します！
 
-対象はプログラミング歴2年以上、またはJavaでの開発経験(授業でも可)のある方です。
-参加は一人でもチームでも構いません。(詳しくは申込フォームを確認)
+対象はプログラミング歴2年以上、またはJavaでの開発経験(授業でも可)のある方です。 参加は一人でもチームでも構いません。(詳しくは申込フォームを確認)
 
 この1週間だけ、自分のために本気を出してみませんか
-
 
 ## イベント詳細
 
@@ -60,20 +58,22 @@ permalink: /events/220608_challenge_hack
 
 各チームの発表を行う。
 
-
 ## 申し込み方法
 
 Google formに回答すること
 
-<a style="font-weight:bold;font-size:1.05rem" href="https://forms.gle/y6ECpYEzHFcgAET38" target="_blank">参加申込はこちら(Google Form)</a>
-
+<a style="font-weight:bold;font-size:1.05rem" href="https://forms.gle/y6ECpYEzHFcgAET38" target="_blank">参加申込はこちら(Google
+Form)</a>
 
 ### 参加条件
 
-<チームでの申し込み>
-上限：5人/チーム
-代表者が、プログラミング歴2年以上、またはJavaでの開発経験あり(授業でも可)
-チーム内にイラストレーターやデザイナーを含んでも良い
-
-<個人での申し込み>
-プログラミング歴2年以上、またはJavaでの開発経験あり(授業でも可)
+<strong>&lt; チームでの申し込み &gt;</strong><br>
+<ul>
+    <li>上限：5人/チーム</li>
+    <li>代表者が、プログラミング歴2年以上、またはJavaでの開発経験あり(授業でも可)</li>
+    <li>チーム内にイラストレーターやデザイナーを含んでも良い</li>
+</ul>
+<strong>&lt; 個人での申し込み &gt;</strong><br>
+<ul>
+    <li>プログラミング歴2年以上、またはJavaでの開発経験あり(授業でも可)</li>
+</ul>

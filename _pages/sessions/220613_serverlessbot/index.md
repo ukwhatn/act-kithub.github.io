@@ -18,8 +18,7 @@ permalink: /sessions/220613_serverlessbot
 
 Google formに回答すること
 
-`<a style="font-weight:bold;font-size:1.05rem" href="https://forms.gle/UGDLdKGEfbeDgKKK7" target="_blank">`参加申込はこちら(Google
-Form)`</a>`
+[参加申込はこちら(Google form)](https://forms.gle/UGDLdKGEfbeDgKKK7)
 
 ### 参加条件
 

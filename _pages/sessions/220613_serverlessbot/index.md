@@ -5,7 +5,6 @@ permalink: /sessions/220613_serverlessbot
 ---
 # Discord bot ハンズオン
 
-**6/8から6/15の1週間、培った技術・知識を一つのカタチにしませんか？**
 
 ## イベント概要
 

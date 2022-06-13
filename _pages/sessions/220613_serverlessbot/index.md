@@ -26,4 +26,6 @@ if switchが分かる程度のプログラミング能力があること
 
 ## 参考資料
 
-後ほど追記します。
+- [前編の資料](https://drive.google.com/file/d/1YoxZRizNRq7z8qKR-YTnZi1hGMuCDrqE/view?usp=sharing)
+- [後編の資料](https://drive.google.com/file/d/1LArsF0z5UvQXYAZNC42IFdW-_tcNYSiE/view?usp=sharing)
+

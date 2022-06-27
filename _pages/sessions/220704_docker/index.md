@@ -24,7 +24,7 @@ permalink: /sessions/220704_docker
 以下のページの内容を行ってください。(その他のページの内容は実行しなくて構いません)
 
 <a href="https://docs.docker.jp/docker-for-windows/install.html" style="font-weight:bold" target="_blank">Macの方はこちら</a><br><br>
-<a href="https://docs.docker.jp/docker-for-windows/install-windows-home.html" style="font-weight:bold" target="_blank">Windows Homeの方はこちら()</a><br>
+<a href="https://docs.docker.jp/docker-for-windows/install-windows-home.html" style="font-weight:bold" target="_blank">Windows Homeの方はこちら</a><br>
 <a href="https://docs.docker.jp/docker-for-windows/install.html" style="font-weight:bold" target="_blank">Windows Proの方はこちら</a><br>
 
 ※ Windowsの種類は<a href="https://pc-karuma.net/windows-10-edition/" target="_blank">こちら</a>から確認できます。

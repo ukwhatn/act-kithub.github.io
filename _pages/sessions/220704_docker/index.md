@@ -10,6 +10,7 @@ permalink: /sessions/220704_docker
     <li><span style="font-weight:bold">日時:</span> 7月4日(月)</li>
     <li><span style="font-weight:bold">時間:</span> 6限(18:25 ~ 19:55)</li>
     <li><span style="font-weight:bold">場所:</span> アカデミックシアター4F 3号館401教室(<a href="/guide/route/3-401" style="font-weight:bold" target="_blank">行き方はこちら</a>)</li>
+    <li><a href="https://forms.gle/2TdQ1yAypes2EmXQ8" style="font-weight: bold" target="_blank">参加登録はこちら</a></li>
 </ul>
 
 <span style="font-weight:bold">当日は、かならずノートPCをお持ちください。</span>

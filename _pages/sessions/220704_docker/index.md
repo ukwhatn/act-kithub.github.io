@@ -26,7 +26,7 @@ permalink: /sessions/220704_docker
 
 お困りの方は、お気軽にDiscordやメールからご質問ください。
 
-<a href="https://docs.docker.jp/docker-for-windows/install.html" style="font-weight:bold" target="_blank">Macの方はこちら</a><br><br>
+<a href="https://docs.docker.jp/docker-for-mac/install.html" style="font-weight:bold" target="_blank">Macの方はこちら</a><br><br>
 <a href="https://docs.docker.jp/docker-for-windows/install-windows-home.html" style="font-weight:bold" target="_blank">Windows Homeの方はこちら</a><br>
 <a href="https://docs.docker.jp/docker-for-windows/install.html" style="font-weight:bold" target="_blank">Windows Proの方はこちら</a><br>
 

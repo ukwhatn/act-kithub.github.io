@@ -33,3 +33,9 @@ permalink: /sessions/220704_docker
 ※ Windowsの種類は<a href="https://pc-karuma.net/windows-10-edition/" target="_blank">こちら</a>から確認できます。
 
 
+## 当日資料
+
+<ul style="line-height: 2">
+    <li><span style="font-weight:bold">資料:</span> <a href="https://zenn.dev/ukwhatn/books/616fca55ad509e" style="font-weight:bold" target="_blank">zenn.dev</a></li>
+    <li><span style="font-weight:bold">スライド:</span> <a href="https://drive.google.com/file/d/17xqSoRehvTna4ptMV23NueIAEh-UAbAz/view?usp=sharing" style="font-weight:bold" target="_blank">Google Drive</a></li>
+</ul>
